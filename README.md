@@ -21,9 +21,14 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Yosia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YosiaSinaga&show_icons=true&theme=radical)
+![Java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-teal?logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=black)
+
 
 ---
 
